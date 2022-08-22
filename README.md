@@ -170,7 +170,6 @@ The dependencies and packages (some of these are mentioned in `composer.json`) a
 - Database: PostgreSql
 
 
-
 ### Breakdown of the `docker-compose.yml` file
 - Version: 3
 - Services:
